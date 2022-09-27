@@ -1,0 +1,23 @@
+.item{
+   text-align: center;
+    padding: 2rem;
+    display: block;
+    background-color:lightcoral;
+    font-size: 1.3rem;
+}
+
+button{
+    padding: 0.9rem;
+    background-color: rgba(44,44,44,0.2);
+    border:1px solid black;
+    border-radius: 2rem;
+}
+
+button:hover{
+    background: white;
+    border-color: white;
+    transition: 0.5s;
+}
+span{
+    color: lightblue;
+}
